@@ -63,4 +63,4 @@ Make sure Python is installed on your computer.
 ### Step 2: Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_LINK
+https://github.com/Soujanya-03/Student-Grade-Calculator.git
